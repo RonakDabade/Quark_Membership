@@ -3,4 +3,4 @@
 
 # Practice Questions
 - Week 1
-1 By using if-else statement find greater number among 3 numbers. 
+- 1 By using if-else statement find greater number among 3 numbers. 
