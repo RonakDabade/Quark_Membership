@@ -1,11 +1,25 @@
-# Quark_Membership Learning Android Development using JAVA
-- Notes and Code related to all sessions.
+Got it! Below is the revised version of the document with **week-wise breakdown** and **accessible links** at the start for easy navigation. The **Mixed Questions** section is kept separate from the weeks, as per your request.
 
 ---
 
 # Java Practice Questions for Beginners
 
 This repository contains a curated list of practice questions for beginners learning Java. These questions are organized week-wise, aligning with the topics covered in your sessions. Each week includes a description of the topics, a link to the notes PDF, and practice questions.
+
+---
+
+## Table of Contents
+- [Week 1](#week-1-basics-of-java)
+  - [Identifiers, Literals, and Variables](#1-identifiers-literals-and-variables)
+  - [If-Else Constructs](#2-if-else-constructs)
+  - [Loop Constructs](#3-loop-constructs)
+  - [Switch-Case](#4-switch-case)
+- [Week 2](#week-2-advanced-basics)
+  - [Operators](#1-operators)
+  - [Strings](#2-strings)
+  - [Arrays](#3-arrays)
+  - [Command Line Arguments](#4-command-line-arguments)
+- [Mixed Questions](#mixed-questions)
 
 ---
 
@@ -64,7 +78,7 @@ This repository contains a curated list of practice questions for beginners lear
    - Using command-line arguments in Java programs.
 
 ### Notes PDF
-📚 [Download Week 2 Notes PDF](#) *(www.google.com)*
+📚 [Download Week 2 Notes PDF](#) *(Replace with actual link)*
 
 ---
 
@@ -91,20 +105,14 @@ This repository contains a curated list of practice questions for beginners lear
 
 ---
 
-## Week 3: Mixed Topics and Challenges
+## Mixed Questions
 
-### Topics Covered
-- Combining concepts from Week 1 and Week 2 to solve mixed problems.
-- Challenging problems to test logical thinking and problem-solving skills.
-
-### Notes PDF
-📚 [Download Week 3 Notes PDF](#) *(Replace with actual link)*
+### Description
+This section contains questions that combine concepts from multiple topics. These are designed to help students strengthen their problem-solving skills.
 
 ---
 
 ### Practice Questions
-
-#### Mixed Questions
 1. Write a program to find the sum of all prime numbers between 1 and 100.
 2. Write a program to count the frequency of each element in an array.
 3. Write a program to print the following pattern using loops:
@@ -118,14 +126,6 @@ This repository contains a curated list of practice questions for beginners lear
 4. Write a program to find the second largest number in an array.
 5. Write a program to check if a given string is an anagram of another string.
 
-#### Challenging Questions
-1. Write a program to simulate a simple ATM machine using `switch-case` and loops. The options should include:
-   - Check Balance
-   - Withdraw Money
-   - Deposit Money
-   - Exit
-2. Write a program to find all pairs of integers in an array whose sum equals a given number.
-
 ---
 
 ### How to Use This Repository
@@ -135,3 +135,5 @@ This repository contains a curated list of practice questions for beginners lear
 
 ---
 Happy coding! 🚀
+
+---
