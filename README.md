@@ -1,4 +1,5 @@
-Got it! Below is the revised version of the document with **week-wise breakdown** and **accessible links** at the start for easy navigation. The **Mixed Questions** section is kept separate from the weeks, as per your request.
+# Quark_Membership Learning Android Development using JAVA
+- Notes and Code related to all sessions.
 
 ---
 
