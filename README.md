@@ -1,201 +1,130 @@
 # Quark_Membership Learning Android Development using JAVA
 - Notes and Code related to all sessions.
 
-# Practice Questions
-Absolutely! Below is the content formatted in **Markdown (.md)** syntax, which you can directly copy and paste into a `.md` file for your GitHub repository. I've organized it neatly with headers, bullet points, and code blocks where necessary.
-
 ---
 
 # Java Practice Questions for Beginners
 
-This repository contains a collection of practice questions designed to help first-year engineering students learn Java programming fundamentals. These questions cover topics such as variables, operators, control structures, loops, strings, arrays, command-line arguments, and `switch-case`.
-
-## Table of Contents
-1. [Identifiers, Literals, and Variables](#1-identifiers-literals-and-variables)
-2. [Operators](#2-operators)
-3. [If-Else Constructs](#3-if-else-constructs)
-4. [Looping Paradigms](#4-looping-paradigms)
-5. [Strings](#5-strings)
-6. [Arrays](#6-arrays)
-7. [Command Line Arguments](#7-command-line-arguments)
-8. [Switch-Case](#8-switch-case)
-9. [Mixed Questions](#9-mixed-questions)
+This repository contains a curated list of practice questions for beginners learning Java. These questions are organized week-wise, aligning with the topics covered in your sessions. Each week includes a description of the topics, a link to the notes PDF, and practice questions.
 
 ---
 
-## 1. Identifiers, Literals, and Variables
+## Week 1: Basics of Java
 
-**Question 1:**  
-Write a program that declares variables for storing the following information:  
-- A student's name (String)  
-- Their age (int)  
-- Their height in meters (double)  
-- Whether they are enrolled in the course (boolean)  
+### Topics Covered
+1. **Identifiers, Literals, and Variables**
+   - Understanding identifiers, literals, and variables.
+   - Data types in Java (`int`, `float`, `double`, `char`, `boolean`).
+2. **If-Else Constructs**
+   - Conditional statements (`if`, `if-else`, `nested if-else`).
+3. **Loop Constructs**
+   - Looping paradigms (`for`, `while`, `do-while`, `for-each`).
+4. **Switch-Case**
+   - Using `switch-case` for decision-making.
 
-Print all these values in a formatted way.
-
-**Question 2:**  
-What is wrong with the following variable declarations? Fix them.  
-```java
-int 1stNumber = 10;
-String user-name = "John";
-float percentage% = 98.5f;
-```
+### Notes PDF
+📚 [Download Week 1 Notes PDF](#) *(Replace with actual link)*
 
 ---
 
-## 2. Operators
+### Practice Questions
 
-**Question 3:**  
-Write a program that takes two numbers as input from the user and performs the following operations:  
-- Addition  
-- Subtraction  
-- Multiplication  
-- Division  
-- Modulus  
+#### 1. Identifiers, Literals, and Variables
+1. Write a program to declare variables of different data types (`int`, `float`, `double`, `char`, `boolean`) and print their values.
+2. Swap the values of two variables without using a third variable.
+3. Write a program to calculate the area of a circle given the radius.
 
-Print the results for each operation.
+#### 2. If-Else Constructs
+1. Write a program to check if a number is positive, negative, or zero.
+2. Write a program to find the largest of three numbers using nested `if-else`.
+3. Write a program to determine the grade of a student based on their marks (A, B, C, D, F).
 
-**Question 4:**  
-Write a program to check whether a given number is divisible by both 5 and 7. Use logical operators (`&&` or `||`) to solve this.
+#### 3. Loop Constructs
+1. Write a program to print the first 10 natural numbers using a `for` loop.
+2. Write a program to calculate the factorial of a number using a `while` loop.
+3. Write a program to print the Fibonacci series up to a given number.
 
----
-
-## 3. If-Else Constructs
-
-**Question 5:**  
-Write a program that takes a number as input and checks whether it is positive, negative, or zero using `if-else` statements.
-
-**Question 6:**  
-Write a program that takes three numbers as input and determines the largest among them using nested `if-else` statements.
-
-**Question 7:**  
-Write a program that takes a character as input and checks whether it is a vowel or a consonant.
+#### 4. Switch-Case
+1. Write a program that takes a number (1-7) as input and prints the corresponding day of the week.
+2. Write a program to perform basic arithmetic operations (`+`, `-`, `*`, `/`) using a `switch-case` statement.
+3. Write a program to check if a given character is a vowel or consonant using a `switch-case`.
 
 ---
 
-## 4. Looping Paradigms
+## Week 2: Advanced Basics
 
-**Question 8:**  
-Write a program to print the first 10 natural numbers using:  
-- A `for` loop  
-- A `while` loop  
-- A `do-while` loop  
+### Topics Covered
+1. **Operators**
+   - Arithmetic, relational, logical, and bitwise operators.
+2. **Strings**
+   - String manipulation, methods, and operations.
+3. **Arrays**
+   - Declaring, initializing, and manipulating arrays.
+4. **Command Line Arguments**
+   - Using command-line arguments in Java programs.
 
-**Question 9:**  
-Write a program to calculate the factorial of a number entered by the user using a `for` loop.
-
-**Question 10:**  
-Write a program to print the following pattern using nested loops:  
-```
-*
-**
-***
-****
-*****
-```
-
-**Question 11:**  
-Write a program to find all prime numbers between 1 and 100 using loops.
+### Notes PDF
+📚 [Download Week 2 Notes PDF](#) *(www.google.com)*
 
 ---
 
-## 5. Strings
+### Practice Questions
 
-**Question 12:**  
-Write a program that takes a string as input and prints its length, the first character, and the last character.
+#### 1. Operators
+1. Write a program to check if a number is even or odd using the modulus operator (`%`).
+2. Create a program to calculate the sum, difference, product, and quotient of two numbers.
+3. Write a program to check if a given year is a leap year.
 
-**Question 13:**  
-Write a program to reverse a string entered by the user without using any built-in functions.
+#### 2. Strings
+1. Write a program to count the number of vowels and consonants in a given string.
+2. Write a program to check if a string is a palindrome.
+3. Write a program to reverse a string without using built-in functions.
 
-**Question 14:**  
-Write a program to check whether a given string is a palindrome (e.g., "madam" or "racecar").
+#### 3. Arrays
+1. Write a program to find the largest and smallest element in an array.
+2. Write a program to reverse an array without using an extra array.
+3. Write a program to sort an array in ascending order.
 
----
-
-## 6. Arrays
-
-**Question 15:**  
-Write a program to initialize an array of integers and find the sum of all elements.
-
-**Question 16:**  
-Write a program to find the largest and smallest element in an array of integers.
-
-**Question 17:**  
-Write a program to sort an array of integers in ascending order using any sorting technique (e.g., Bubble Sort).
-
-**Question 18:**  
-Write a program to take two arrays of integers as input and merge them into a third array. Print the merged array.
+#### 4. Command Line Arguments
+1. Write a program that takes two numbers as command-line arguments and prints their sum.
+2. Write a program that takes a string as a command-line argument and checks if it is a palindrome.
 
 ---
 
-## 7. Command Line Arguments
+## Week 3: Mixed Topics and Challenges
 
-**Question 19:**  
-Write a program that takes two numbers as command-line arguments and prints their sum.
+### Topics Covered
+- Combining concepts from Week 1 and Week 2 to solve mixed problems.
+- Challenging problems to test logical thinking and problem-solving skills.
 
-**Question 20:**  
-Write a program that takes a string as a command-line argument and prints whether it is a palindrome.
-
----
-
-## 8. Switch-Case
-
-**Question 1:**  
-Write a program that takes a number (1 to 7) as input and prints the corresponding day of the week using a `switch-case` statement. For example:  
-- Input: `1` → Output: "Monday"  
-- Input: `7` → Output: "Sunday"  
-If the input is outside the range 1–7, print "Invalid input."
-
-**Question 2:**  
-Write a menu-driven program that performs basic arithmetic operations (`+`, `-`, `*`, `/`) based on user input. Use a `switch-case` statement to handle the logic.
-
-**Question 3:**  
-Write a program that takes a student's grade (A, B, C, D, or F) as input and prints a corresponding message using a `switch-case` statement.
-
-**Question 4:**  
-Write a program that takes a single character as input and checks whether it is a vowel or a consonant using a `switch-case` statement.
+### Notes PDF
+📚 [Download Week 3 Notes PDF](#) *(Replace with actual link)*
 
 ---
 
-## 9. Mixed Questions
+### Practice Questions
 
-**Question 21:**  
-Write a program that takes an array of integers as input and prints all the even numbers in the array using a `for-each` loop.
+#### Mixed Questions
+1. Write a program to find the sum of all prime numbers between 1 and 100.
+2. Write a program to count the frequency of each element in an array.
+3. Write a program to print the following pattern using loops:
+   ```
+   *
+   **
+   ***
+   ****
+   *****
+   ```
+4. Write a program to find the second largest number in an array.
+5. Write a program to check if a given string is an anagram of another string.
 
-**Question 22:**  
-Write a program to simulate a simple calculator. The program should:  
-- Take two numbers and an operator (+, -, *, /) as input.  
-- Perform the corresponding operation using `if-else` or `switch-case`.  
-- Handle division by zero errors.
-
-**Question 23:**  
-Write a program to generate the Fibonacci series up to a given number using a `while` loop.
-
-**Question 24:**  
-Write a program to count the number of vowels and consonants in a string entered by the user.
-
-**Question 25:**  
-Write a program to find the second largest element in an array of integers.
-
----
-
-## Challenging Questions
-
-**Question 26:**  
-Write a program to implement a basic login system. The program should:  
-- Store a username and password as hardcoded values.  
-- Ask the user to enter their username and password.  
-- Allow three attempts to log in. If the user fails after three attempts, print "Account locked."
-
-**Question 27:**  
-Write a program to simulate a dice roll game. The program should:  
-- Generate a random number between 1 and 6.  
-- Ask the user to guess the number.  
-- Provide feedback on whether the guess was correct or not.
-
-**Question 28:**  
-Write a program to find all pairs of integers in an array whose sum equals a given number.
+#### Challenging Questions
+1. Write a program to simulate a simple ATM machine using `switch-case` and loops. The options should include:
+   - Check Balance
+   - Withdraw Money
+   - Deposit Money
+   - Exit
+2. Write a program to find all pairs of integers in an array whose sum equals a given number.
 
 ---
 
@@ -204,8 +133,5 @@ Write a program to find all pairs of integers in an array whose sum equals a giv
 2. Solve the questions in your preferred Java IDE.
 3. Commit your solutions and push them back to your forked repository.
 
-Happy coding! 🚀
-
 ---
-
-You can copy this Markdown content into a file named `README.md` in your GitHub repository. It will render beautifully on GitHub with proper formatting. Let me know if you need further assistance! 😊
+Happy coding! 🚀
