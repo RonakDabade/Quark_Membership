@@ -3,8 +3,6 @@
 
 ---
 
-# Java Practice Questions for Beginners
-
 This repository contains a curated list of practice questions for beginners learning Java. These questions are organized week-wise, aligning with the topics covered in your sessions. Each week includes a description of the topics, a link to the notes PDF, and practice questions.
 
 ---
