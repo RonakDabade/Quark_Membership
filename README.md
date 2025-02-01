@@ -36,7 +36,7 @@ This repository contains a curated list of practice questions for beginners lear
    - Using `switch-case` for decision-making.
 
 ### Notes PDF
-📚 [Download Week 1 Notes PDF](#)
+📚 [Download Week 1 Notes PDF](https://www.canva.com/design/DAGcL1OcYQc/0Lt3bYwFnwHShcaLHTMCWw/edit?utm_content=DAGcL1OcYQc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
@@ -77,7 +77,7 @@ This repository contains a curated list of practice questions for beginners lear
    - Using command-line arguments in Java programs.
 
 ### Notes PDF
-📚 [Download Week 2 Notes PDF](#)
+📚 [Download Week 2 Notes PDF](https://www.canva.com/design/DAGdfu13GN4/4u6d0aZFDGIQZRHGrw6fIQ/edit?utm_content=DAGdfu13GN4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
